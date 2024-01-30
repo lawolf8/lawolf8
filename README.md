@@ -3,15 +3,18 @@
 ## Data Engineer Intern Sr. | Machine Learning and Operations Research Engineer
 
 ### About Me
-I'm an aspiring Industrial Engineer with a focus on data engineering, machine learning, and operations research. Currently enhancing fleet management systems at Lockheed Martin and conducting cutting-edge research with machine learning and operations research at the University of South Florida. I'm passionate about applying my technical skills to solve complex problems and optimize systems.
+I'm an aspiring Software/Data Engineer with a focus on data engineering, data science, machine learning, and operations research. Currently enhancing fleet management systems at Lockheed Martin as a Data Engineer and conducting cutting-edge research with machine learning and operations research at the University of South Florida. I'm passionate about applying my technical skills to solve complex problems and optimize systems.
+
+**NOTE**: Since I work at Lockheed Martin Aeronautics and USF Research, I am unable to display the majority of my work. Due to this, I do not have many projects in my public portfolio for legal reasons.  
 
 ### Professional Experience
 
 #### Lockheed Martin Aeronautics - Data Engineer Intern Sr.
-- Implemented predictive machine learning models for Fleet Management, leading to enhanced maintenance scheduling and part advisories.
+- Introduced, led, and created a predictive machine learning model for Fleet Management, leading to enhanced maintenance scheduling and part advisories.
 - Creating and maintaining data pipelines that are utilized to monitor fleet health 
 - Created Tableau dashboards to monitor fleet performance, integrating data from SAP servers using SQL, Python, and VBA.
 - Analyzed financial data for Earned Value reviews on contracts exceeding $100 million.
+- Crafted task automation for various labor-intensive tasks involved with data management
 
 #### University of South Florida - Machine Learning and Operations Research Engineer
 - Advanced Python skills, working with libraries like Gurobi, Matplotlib, Pandas, and NumPy for data science applications.
@@ -39,4 +42,4 @@ I'm an aspiring Industrial Engineer with a focus on data engineering, machine le
 
 I'm always open to collaborate on projects and innovative ideas. Feel free to connect with me!
 
-[LinkedIn](https://www.linkedin.com/in/lukeawolf/) | 
+[LinkedIn](https://www.linkedin.com/in/lukeawolf/) | [Email](lawolf@usf.edu)
