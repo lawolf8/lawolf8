@@ -23,23 +23,22 @@ I'm an aspiring Software/Data Engineer with a focus on data engineering, data sc
 #### Florida Department of Transportation - Systems Engineer Intern
 - Coordinated Intelligent Traffic System maintenance and facilitated new ITS projects, contributing to traffic management and system optimization.
 
-### Education
-- **University of South Florida**: B.S. in Industrial Engineering (GPA: 3.58) - Expected Graduation May 2025
-
 ### Skills & Certifications
-- **Programming Languages**: (Matplotlib, Seaborn, Regex, Machine Learning Algorithms, Pandas, NumPy, ScikitLearn, Gurobipy. OR-tools)
+- **Programming Languages**: (Matplotlib, Seaborn, Regex, Machine Learning Algorithms, Pandas, NumPy, Scikit-Learn, Gurobipy, OR-tools)
 - **Applications**: Autodesk Suite, ServiceNOW, SAP HANA, Tableau, GitHub, GitLab, VS Code, Microsoft Office & 365
 - **Certifications**: Python 3 Machine Learning, Agile Systems Engineering, Data Structures and Algorithms in Python
 
 ### Awards and Honors
 - Lockheed Martin Awards: Reshaping Our Operations (x4), Strengthening Our Foundation (x1)
 - Goldwater Scholarship Nomination (Research Scholarship)
-
-### Languages
-- English (Native), Spanish (Advanced), Russian (Novice)
-
 ---
 
 I'm always open to collaborate on projects and innovative ideas. Feel free to connect with me!
 
-[LinkedIn](https://www.linkedin.com/in/lukeawolf/) | [Email](lawolf@usf.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukeawolf) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lawolf8&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lawolf8&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lawolf8&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
