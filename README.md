@@ -33,12 +33,7 @@ I'm an aspiring Software/Data Engineer with a focus on data engineering, data sc
 - Goldwater Scholarship Nomination (Research Scholarship)
 ---
 
-I'm always open to collaborate on projects and innovative ideas. Feel free to connect with me!
+I'm always open to collaborating on projects and innovative ideas. Feel free to connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukeawolf) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lawolf8&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lawolf8&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lawolf8&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
