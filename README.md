@@ -3,7 +3,7 @@
 ## Data Engineer Intern Sr. | Machine Learning and Operations Research Engineer
 
 ### About Me
-I'm an aspiring Software/Data Engineer with a focus on data engineering, data science, machine learning, and operations research. Currently enhancing fleet management systems at Lockheed Martin as a Data Engineer and conducting cutting-edge research with machine learning and operations research at the University of South Florida. I'm passionate about applying my technical skills to solve complex problems and optimize systems.
+I'm a Software/Data Engineer with a focus on data engineering, data science, machine learning, and operations research. Currently enhancing fleet management systems at Lockheed Martin as a Data Engineer and conducting cutting-edge research with machine learning and operations research at the University of South Florida. I'm passionate about applying my technical skills to solve complex problems and optimize systems.
 
 **NOTE**: Since I work at Lockheed Martin Aeronautics and USF Research, I am unable to display the majority of my work. Due to this, I do not have many projects in my public portfolio for legal reasons.  
 
