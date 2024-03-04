@@ -10,7 +10,7 @@ I'm a Software/Data Engineer with a focus on data engineering, data science, mac
 ### Professional Experience
 
 #### Lockheed Martin Aeronautics - Data Engineer Intern Sr.
-- Introduced, led, and created a predictive machine learning model for Fleet Management, leading to enhanced maintenance scheduling and part advisories.
+- Introduced, led, and created an nlp predictive machine learning model for Fleet Management, utilizing various pipelines and APIs, leading to enhanced maintenance scheduling and part advisories. 
 - Creating and maintaining data pipelines that are utilized to monitor fleet health 
 - Created Tableau dashboards to monitor fleet performance, integrating data from SAP servers using SQL, Python, and VBA.
 - Analyzed financial data for Earned Value reviews on contracts exceeding $100 million.
