@@ -1,15 +1,24 @@
 # Hello, I'm [Luke Wolf] 👋
 
-## Data Engineer Intern Sr. | Machine Learning and Operations Research Engineer
+## Data Scientist | Data Engineer | Machine Learning and Operations Research Engineer
 
 ### About Me
-I'm a Software/Data Engineer with a focus on data engineering, data science, machine learning, and operations research. Currently enhancing fleet management systems at Lockheed Martin as a Data Engineer and conducting cutting-edge research with machine learning and operations research at the University of South Florida. I'm passionate about applying my technical skills to solve complex problems and optimize systems.
+I'm a Software/Data Engineer with a focus on data engineering, data science, machine learning, and operations research. Currently enhancing fleet management systems and production operations at Lockheed Martin as a Data Engineer (contracted), data scientist (full-time), and conducting cutting-edge research with machine learning and operations research at the University of South Florida. I'm passionate about applying my technical skills to solve complex problems and optimize systems.
 
 **NOTE**: Since I work at Lockheed Martin Aeronautics and USF Research, I am unable to display the majority of my work. Due to this, I do not have many projects in my public portfolio for legal reasons.  
 
 ### Professional Experience
 
-#### Lockheed Martin Aeronautics - Data Engineer Intern Sr.
+
+#### Lockheed Martin Aeronautics - Data Engineer
+- Decreased delivery delays from 3 hours to 1 minute per week by creating an automated metric pull feature utilizing Tableau Server Client API via the Python Flask framework, Python libraries, SQL, and VBA.
+- Single-handily increased accessibility of internal tools and documentation by developing new AWS cloud infrastructure.
+- Performed time studies on part quality inspections and conducted SQL scripts through SAP HANA API impacting detailed production scheduling and staffing.
+- Designed a Mixed-Integer Linear Programming (MILP) model to maximize production output and minimize cost by optimizing the interdependent floor production areas.
+- Engineered an Extract, Transform, Load (ETL) process using Optical Character Recognition (OCR) to scan and store data from handwritten PDFs, reducing manual input time by 2 hours per document.
+
+
+#### Lockheed Martin Aeronautics - Data Engineer
 - Introduced, led, and created an nlp predictive machine learning model for Fleet Management, utilizing various pipelines and APIs, leading to enhanced maintenance scheduling and part advisories. 
 - Creating and maintaining data pipelines that are utilized to monitor fleet health 
 - Created Tableau dashboards to monitor fleet performance, integrating data from SAP servers using SQL, Python, and VBA.
