@@ -1,9 +1,9 @@
 # Hello, I'm [Luke Wolf] 👋
 
-## Data Engineer | Machine Learning and Operations Research Engineer
+## Data Engineer @ Lockheed Martin | Machine Learning and Operations Research Engineer @ USF
 
 ### About Me
-I'm a Software/Data Engineer with a focus on data engineering, data science, machine learning, and operations research. Currently enhancing fleet management systems and production operations at Lockheed Martin as a Data Engineer (contracted), data scientist (full-time), and conducting cutting-edge research with machine learning and operations research at the University of South Florida. I'm passionate about applying my technical skills to solve complex problems and optimize systems. I enjoy developing automated tasks, implmenting ETL methods, pipelines, DBMS, and more!
+I'm a Data Engineer with a career that focuses on the creation and mainntenance of pipelines, databases, machine learning algorithms, operations research models, and data visualization. Currently enhancing fleet management systems and production operations at Lockheed Martin as a Data Engineer (contracted), Data Engineer in Production Operations (full-time), and conducting cutting-edge research with machine learning and operations research at the University of South Florida. I'm passionate about applying my technical skills to solve complex problems and optimize systems. I enjoy developing automated tasks, implmenting ETL methods, pipelines, DBMS, and more!
 
 ### Projects
 #### Sludge-Content-Automation: 
@@ -46,11 +46,6 @@ Extremely large ariline database to consider as many aspects/tables possible wit
 
 #### Florida Department of Transportation - Systems Engineer Intern
 - Coordinated Intelligent Traffic System maintenance and facilitated new ITS projects, contributing to traffic management and system optimization.
-
-### Skills & Certifications
-- **Programming Languages**: (Matplotlib, Seaborn, Regex, Machine Learning Algorithms, Pandas, NumPy, Scikit-Learn, Gurobipy, OR-tools)
-- **Applications**: Autodesk Suite, ServiceNOW, SAP HANA, Tableau, GitHub, GitLab, VS Code, Microsoft Office & 365
-- **Certifications**: Python 3 Machine Learning, Agile Systems Engineering, Data Structures and Algorithms in Python
 
 ### Awards and Honors
 - Lockheed Martin Awards: Reshaping Our Operations (x4), Strengthening Our Foundation (x1)
