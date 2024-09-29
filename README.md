@@ -6,6 +6,29 @@
 I'm a Data Engineer with a career that focuses on the creation and mainntenance of pipelines, databases, machine learning algorithms, operations research models, and data visualization. Currently enhancing fleet management systems and production operations at Lockheed Martin as a Data Engineer (contracted), Data Engineer in Production Operations (full-time), and conducting cutting-edge research with machine learning and operations research at the University of South Florida. I'm passionate about applying my technical skills to solve complex problems and optimize systems. I enjoy developing automated tasks, implmenting ETL methods, pipelines, DBMS, and more!
 
 ### Projects
+#### ValueScout:
+Seamlessly combine discounts and travel savings to maximize your shopping value based on your shopping list.
+Langauges: Python, Javascript, SQL, CSS, HTML
+- Frontend:
+  - React.js: Dynamic UI
+  - Tailwind CSS/Material-UI: Styling
+- Backend:
+  - Flask (Python): REST API, web scraping
+  - Google Maps/GasBuddy APIs: Route and gas cost
+- Database:
+  - PostgreSQL: Main storage
+  - SQLite: Local cache
+- Cloud:
+  - AWS (EC2, S3): Hosting and storage
+  - Netlify/Vercel: Frontend deployment
+- Security:
+  - OAuth 2.0 / JWT: Authentication
+- CI/CD:
+  - GitHub Actions: Automated deployment
+Monitoring:
+  - Prometheus/Grafana: Performance
+  - Docker: Containerization
+
 #### Sludge-Content-Automation: 
 Since social media grabs attention from the majority of the world's population, I developed a system to automate content development, posting, analytics, and optimization to potentially gain streams of revenue
 - Langauges: Python, SQL
