@@ -1,9 +1,9 @@
 # Hello, I'm [Luke Wolf] 👋
 
-## Data Engineer @ Lockheed Martin | Machine Learning and Operations Research Engineer @ USF
+## Data Engineer @ IBM | Previously Data Engineer @ Lockheed Martin
 
 ### About Me
-I'm a Data Engineer with a career that focuses on the creation and mainntenance of pipelines, databases, machine learning algorithms, operations research models, and data visualization. Currently enhancing fleet management systems and production operations at Lockheed Martin as a Data Engineer (contracted), Data Engineer in Production Operations (full-time), and conducting cutting-edge research with machine learning and operations research at the University of South Florida. I'm passionate about applying my technical skills to solve complex problems and optimize systems. I enjoy developing automated tasks, implmenting ETL methods, pipelines, DBMS, and more!
+I'm a Data Engineer with a career that focuses on the creation and mainntenance of pipelines, databases, machine learning algorithms, operations research models, and data visualization. Currently a Data Engineer at IBM supporting a Cyber Program. Previously enhanced fleet management systems and production operations at Lockheed Martin as a Data Engineer (contracted), Data Engineer in Production Operations (full-time), and conducting cutting-edge research with machine learning and operations research at the University of South Florida. I'm passionate about applying my technical skills to solve complex problems and optimize systems. I enjoy developing automated tasks, implmenting ETL methods, pipelines, DBMS, and more!
 
 ### Projects
 #### ValueScout:
